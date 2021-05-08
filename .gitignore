@@ -1,0 +1,5 @@
+/producer/node_modules
+/producer/dist
+
+/consumer/node_modules
+/consumer/dist
